@@ -8,7 +8,7 @@ using WebApplication2.services.Interfaces;
 
 namespace WebApplication2.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/product")]
     [ApiController]
     public class ProductsController : ControllerBase
     {
